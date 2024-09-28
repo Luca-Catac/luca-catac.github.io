@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="catac.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Universal Moral Theory</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d53434;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Universal Moral Theory</h1>
+    </header>
+
+    <section>
+        <article>
+            <h2>Introduction</h2>
+            <p>
+                Since the dawn of mankind
+                There has been only one assurance
+                Love & War
+            </p>
+
+            <h2>Main Story</h2>
+            <p>
+                Start writing your story here. You can expand this section with paragraphs, dialogues, and description as needed.
+            </p>
+
+            <h2>Conclusion</h2>
+            <p>
+                Wrap up your story with a satisfying ending or leave it open-ended for your readers to think about.
+            </p>
+        </article>
+    </section>
+
+    <footer>
+        <p>© 2024 LucaCatac | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
