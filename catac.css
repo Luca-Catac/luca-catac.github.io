@@ -64,7 +64,7 @@ h1 {
 h2 {
     font-size: 1.75em;
     margin-top: 40px;
-    color: #4CAF50;
+    color: #D23210;
 }
 
 /* Paragraphs */
@@ -76,7 +76,7 @@ p {
 
 /* Links */
 a {
-    color: #4CAF50;
+    color: #D23210;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -90,7 +90,7 @@ footer {
     text-align: center;
     margin-top: 40px;
     padding: 20px;
-    background-color: #4CAF50;
+    background-color: #D23210;
     color: white;
     font-size: 0.9em;
     font-family: 'Arial', sans-serif;
