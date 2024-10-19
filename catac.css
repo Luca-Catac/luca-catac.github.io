@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+p {
+  text-indent: 10%;
+}
+
 /* Body styling */
         body {
             font-family: Arial, sans-serif;
